@@ -1,0 +1,12 @@
+{
+  "name": "filesorter",
+  "version": "1.0.0",
+  "description": "A simple module which can sort the files using source and destination filepaths",
+  "license": "ISC",
+  "author": "Yaswanth",
+  "type": "module",
+  "main": "sorter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
