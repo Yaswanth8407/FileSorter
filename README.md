@@ -37,8 +37,8 @@ Example `package.json`:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/node-file-sorter.git
-cd node-file-sorter
+git clone https://github.com/Yaswanth8407/FileSorter.git
+cd FileSorter
 ```
 
 Install dependencies (none required but recommended to initialize project):
